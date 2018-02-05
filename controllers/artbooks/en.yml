@@ -6,6 +6,6 @@ en:
       success: "Artbook was successfully created!"
     update:
       success: "Artbook was successfully updated."
-      error: "There was some problems with updating this artbook! Try again."
+      error: "There were some problems with updating this artbook! Try again."
     destroy:
       success: "Artbook was successfully deleted!"
